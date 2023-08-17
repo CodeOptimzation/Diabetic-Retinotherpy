@@ -1,2 +1,2 @@
 # Diabetic-Retinotherpy
-Diabetic-Retinopathy detection
+Diabetic-Retinopathy Detection
